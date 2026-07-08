@@ -1,0 +1,6 @@
+{
+  "name": "Shanghai Bespoke Atelier",
+  "description": "An exquisite luxury bespoke fashion and fine jewelry atelier experience in Shanghai, blending Haipai heritage with modern craftsmanship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
